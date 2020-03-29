@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/asep-nurhalim/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/furqon/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/hamim/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/hamzah/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/musthofa/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/neneng-hasanah/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/qoriatul/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/salim/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/sholeh/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/pengajar/wachid/</loc>
+    <lastmod>2020-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/go/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/template/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/bootstrap/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/css/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/highlight-js/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/js/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/project/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/responsive/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ipbpai.github.io/pages/tags/syntax-highlighting/</loc>
+  </url>
+  
+</urlset>
